@@ -1,4 +1,6 @@
-! ::[OPTIMUMα]:: Modified from Simplified domain names filter. Homepage: https://github.com/AdguardTeam/AdguardDNS
+! [Simplified domain names filter]
+! [https://github.com/AdguardTeam/AdguardDNS]
+! Adservice
 ! EasyList
 ||007-gateway.com^
 ||04dn8g4f.space^
@@ -1041,6 +1043,7 @@
 ||biemedia.com^
 ||bigadpoint.net^
 ||bigchoicegroup.com^
+||bigdomain.in^
 ||bigfineads.com^
 ||bigpulpit.com^
 ||bijscode.com^
@@ -1107,6 +1110,7 @@
 ||bostonparadise.com^
 ||bostonwall.com^
 ||boteko.work^
+||boudja.com^
 ||bounce.bar^
 ||bowells.com^
 ||boydadvertising.co.uk^
@@ -1455,6 +1459,7 @@
 ||crispads.com^
 ||crocspaceoptimizer.com^
 ||croea.com^
+||croissed.info^
 ||crossrider.com^
 ||crowdgatheradnetwork.com^
 ||crowdgravity.com^
@@ -2332,6 +2337,7 @@
 ||jscloud.org^
 ||jscount.com^
 ||jsfeedadsget.com^
+||jsmjmp.com^
 ||jsretra.com^
 ||jssearch.net^
 ||jtrakk.com^
@@ -2512,6 +2518,7 @@
 ||lqw.me^
 ||ltassrv.com.s3.amazonaws.com^
 ||lucidmedia.com^
+||lucklayed.info^
 ||lushcrush.com^
 ||luxadv.com^
 ||luxbetaffiliates.com.au^
@@ -2739,6 +2746,7 @@
 ||mujap.com^
 ||mukwonagoacampo.com^
 ||multiadserv.com^
+||multimater.com^
 ||multiview.com^
 ||munically.com^
 ||music-desktop.com^
@@ -3180,6 +3188,7 @@
 ||ppclinking.com^
 ||ppctrck.com^
 ||ppcwebspy.com^
+||ppdxyz.info^
 ||ppsearcher.ru^
 ||practively.com^
 ||prebid.org^
@@ -3272,6 +3281,7 @@
 ||pussl10.com^
 ||pussl11.com^
 ||pussl13.com^
+||pussl18.com^
 ||pussl28.com^
 ||pussl3.com^
 ||pussl30.com^
@@ -3563,6 +3573,7 @@
 ||simplyhired.com^
 ||simvinvo.com^
 ||siniature.com^
+||siradsalot.com^
 ||sirfad.com^
 ||sitebrand.com^
 ||siteencore.com^
@@ -4294,6 +4305,7 @@
 ||yieldbuild.com^
 ||yieldkit.com^
 ||yieldlab.net^
+||yieldlove.com^
 ||yieldmanager.com^
 ||yieldmanager.net^
 ||yieldoptimizer.com^
@@ -8086,17 +8098,140 @@
 ||yatnozin.info^
 ||zhinkichi.info^
 ! WebRTC adservers
+a.ajkelra.com^
+a.akailoparzapi.com^
+a.alabardak.com^
+a.atarshaboor.com^
+a.avalhukof.com^
+a.badokal.com^
+a.bahaimlo.com^
+a.bapalolo.com^
+a.bapaquac.com^
+a.beglorena.com^
+a.bobarilla.com^
+a.bokilora.com^
+a.bondinra.com^
+a.bonjikoa.com^
+a.botiviga.com^
+a.bulbazoa.com^
+a.camtinolc.com^
+a.carutinv.com^
+a.chukalapopi.com^
+a.chukalorqa.com^
+a.ciridola.com^
+a.civitik.com^
+a.d.mojigaga.com^
+a.dagasaka.com^
+a.daghashmal.com^
+a.dbvault.net^
+a.dontibar.com^
+a.dorapodorasham.com^
+a.drogomet.com^
+a.dulderbulder.com^
+a.durazopa.com^
+a.egolina.com^
+a.ekolamis.com^
 a.erogaliv.com^
+a.farfarida.com^
+a.filtonay.com^
+a.foditgoz.com^
+a.forkitz.com^
+a.fulhudhoo.com^
+a.godibarl.com^
+a.golizoli.com^
+a.haklopar.com^
+a.hariqavi.com^
+a.hirovivi.com^
+a.horheloopo.com^
+a.humuseliyahu.com^
+a.jadizayo.com^
+a.jandolav.com^
+a.jingavot.com^
+a.jojilabola.com^
+a.jorjodika.com^
+a.jquerycdn.co.il^
+a.jquerymin.co.il^
+a.kalmloda.com^
+a.kdoraraq.com^
+a.kilomansa.com^
+a.kilorama.com^
+a.krakeshlaja.com^
+a.kuchebraska.com^
+a.kulkaridoopi.com^
+a.kulkerbolda.com^
+a.liktirov.com^
+a.lokipodi.com^
+a.measurementaz.com^
+a.milparota.com^
+a.mojigaga.com^
+a.morbitempus.com^
 a.moritava.com^
+a.mozefakt.com^
+a.mujilora.com^
+a.muligov.com^
+a.namitol.com^
+a.nanuyalailai.com^
+a.niholaev.com^
+a.niklesrov.com^
+a.nimdinb.com^
+a.oddomane.com^
 a.pipilida.com^
+a.pitatagata.com^
+a.pompazilla.com^
+a.poratav.com^
+a.prikolizdesa.com^
+a.qawiman.com^
+a.quavomi.com^
+a.ratkalol.com^
+a.reqpostanza.com^
+a.rolkakuksa.com^
 a.roritabo.com^
+a.rotibald.com^
+a.scrappykoko.com^
+a.senolati.com^
+a.shmonekisot.com^
+a.shokala.com^
+a.shoxyloxi.com^
 a.shulhanafuh.com^
+a.tantella.com^
+a.tenlokif.com^
+a.tijorari.com^
+a.tikodala.com^
+a.tikrailijorj.com^
+a.udorik.com^
+a.ufraton.com^
+a.ukatoe.com^
 a.upnorma.com^
+a.uralap.com^
+a.utazwa.com^
+a.utorido.com^
+a.uzekrs.com^
+a.uzotarak.com^
+a.venonita.com^
+a.vkafirac.com^
+a.volimole.com^
+a.wakapita.com^
+a.wodizapt.com^
+a.xeozir.com^
+a.yaboshadi.com^
+a.yallboen.com^
+a.yeshhaod.com^
+a.yorilada.com^
+a.yuituityula.com^
+a.zepozipo.com^
+a.zinovila.com^
+a.zipovoma.com^
+a.zirobata.com^
+a.zonolali.com^
+a.zorbikala.com^
+a.zortinah.com^
 ||voodoo.com^
 ! Adguard Filter
 ! Содержит доменные имена, использующиеся рекламными сетями.
 ||rcdn.pro^
 ||greencuttlefish.com^
+||gpjph.com^
+||lyhowtot.ru^
 ||hiaaheddgjdfgabiafc.ru^
 ||rybyzi.ru^
 ||talysu.info^
@@ -8233,7 +8368,7 @@ a.upnorma.com^
 ||kypivukypi.ru^
 ||ebazucebid.com^
 ||netsled.net^
-||octopusads.net^
+octopusads.net
 ||pmndbsjd.site^
 ||dadafilehost.com^
 ||nasdfg.com^
@@ -8276,7 +8411,7 @@ a.upnorma.com^
 ||znbdr.com^
 ||racerchairs.xyz^
 ||allibestru.ru^
-||us6odtasve.ru^
+us6odtasve.ru
 ||us5fzonaco.ru^
 ||us4hnicser.ru^
 ||us3mnavice.ru^
@@ -8577,7 +8712,6 @@ http:^^red.by^
 http:^^w7.ru^
 http:^^wq3.ru^
 polezno-2012.info^
-||thr.ru^
 ||00bloggers.ru^
 ||01n2e3pac2.com^
 ||029qz3xam2qq.xyz^
@@ -10134,7 +10268,7 @@ polezno-2012.info^
 ||pofqm.xyz^
 ||pointclc.com^
 ||pokazuha.pp.ua^
-||pokerstrategy.com^
+||pokerstrategy.com^#
 ||pokitom.com^
 ||pokrutim.ru^
 ||polipol.pw^
@@ -10204,7 +10338,6 @@ polezno-2012.info^
 ||psmardr.com^
 ||ptrck.ru^
 ||puklisi.ru^
-||puls.lv^
 ||purchaseklik.ru^
 ||purecash.ru^
 ||purige.ru^
@@ -10309,7 +10442,7 @@ polezno-2012.info^
 ||rorer.ru^
 ||rot.rusoul.ru^
 ||rot.spotsniper.ru^
-||rotaban.ru^
+||rotaban.
 ||rotabanner.
 ||rotation-context.ru^
 ||rotator.
@@ -10329,7 +10462,6 @@ polezno-2012.info^
 ||rteneme.ru^
 ||rtl1.biz^
 ||rtl1.net^
-||ru4.com^
 ||ruad.net^
 ||ruigra.com^
 ||ruklik.com^
@@ -10450,7 +10582,7 @@ polezno-2012.info^
 ||slopeac.com^
 ||slot-888.ru^
 ||slowpoker.ru^
-||smart.allocine.fr^
+||smart.allocine.fr
 ||smartinfomarketing.ru^
 ||smigid.ru^
 ||smimarket.com^
@@ -10487,7 +10619,7 @@ polezno-2012.info^
 ||statistik.duplanet.tk^
 ||statredpic.ru^
 ||statscreen.info^
-||stb.msn.com^
+||stb.msn.com^i
 ||steamac.com^
 ||stf779.ru^
 ||still-innocent.info^
@@ -10523,7 +10655,7 @@ polezno-2012.info^
 ||targetan.com^
 ||targetix.net^
 ||tastishi.ru^
-||tbe.tom.ru^
+||tbe.tom.ru^?
 ||tch10.com^
 ||tch30.com^
 ||tcoxndk.hfgjdcbrv.xyz^
@@ -10593,8 +10725,8 @@ polezno-2012.info^
 ||thor-media.ru^
 ||thrilling.ru^
 ||tibrashadow.ru^
-||tibu.ru^
-||timedirect.ru^
+||tibu.ru^p
+||timedirect.ru
 ||tisagama.com^
 ||tisarama.com^
 ||tisref.com^
@@ -11071,7 +11203,9 @@ polezno-2012.info^
 ||zqvix.xyz^
 ||ztmol.club^
 ||zxrtn.com^
+! VisitWeb ads
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
+:^^*.gigantporno.com^
 ||t.xtubetv.net^
 ||ad.4ertik.porn^
 ||xml.adbetnet.com^
@@ -11116,7 +11250,7 @@ polezno-2012.info^
 :^^*.1sexxx.com
 ||stepan-fe.go.mail.ru^
 :^^*.2img-pic.ru^
-||an.yandex.ru^
+||an.yandex.
 :^^*.simpsonsvideos.ru^
 ||code.kinofactor.ru^
 ||b.books555.com^
@@ -11185,6 +11319,9 @@ ws*:^^video.docfilms.info^
 ||tizer.rupornophoto.com^
 ||ts2.hockey-talks.com^
 ! Section contains list of advertising networks
+! Ads reinjection
+||secureboom.net^
+||y6a7tqyr.com^
 ||niholaev.com^
 ||caprofitx.com^
 ||microad.net^
@@ -11217,10 +11354,7 @@ ws*:^^video.docfilms.info^
 ||topacity.info^
 ||arancefy.com^
 ||findepended.com^
-||lucklayed.info^
-||croissed.info^
 ||elanatality.info^
-||boudja.com^
 ||pussl43.com^
 ||click-cpa.net^
 ||bunkirling.co^
@@ -11241,7 +11375,6 @@ ws*:^^video.docfilms.info^
 ||daghashmal.com^
 ||kulkerbolda.com^
 ||erogaliv.com^
-||yieldlove.com^
 ||adshost.site^
 ||celeritascdn.com^
 ||commercialvalue.org^
@@ -11353,7 +11486,6 @@ ws*:^^video.docfilms.info^
 ||econducte.com^
 ||wct.click^
 ||9content.com^
-||pussl18.com^
 ||mtvp05j.com^
 ||khimandi.info^
 ||hottraffic.net^
@@ -11425,7 +11557,7 @@ ws*:^^video.docfilms.info^
 ||automoc.net^
 ||motohem.com^
 ||mobioffertrck.com
-||trklvs.com^
+||trklvs.com
 ||suocloud.com^
 ||wirelesstube.mobi^
 ||vkkpv.com^
@@ -11505,7 +11637,7 @@ ws*:^^video.docfilms.info^
 ||advertclickme.com^
 ||advertiserurl.com^
 ||adviator.com^
-||adworkmedia.com^
+||adworkmedia.com
 ||adxpansion.com^
 ||adzos.com^
 ||aff.camplace.com^
@@ -11526,7 +11658,7 @@ ws*:^^video.docfilms.info^
 ||b.rmgserving.com^
 ||banner.dabi.ir^
 ||bannery.hledejceny.cz^
-||bbcdn.go.evolutionmedia.bbelements.co^
+||bbcdn.go.evolutionmedia.bbelements.co
 ||bedebadum.net^
 ||bee7.com^
 ||beglorena.com^
@@ -11761,7 +11893,7 @@ ws*:^^video.docfilms.info^
 ||zanox.com^
 ||zaperplop.info^
 ||zeti.com^
-! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
+! Section contains the list of advertising networks, which are hosted on non advertising sites as sub domains
 ||d3rhktq8uy839j.cloudfront.net^
 ||s.worldofmacros.net^
 ||dc08i221b0n8a.cloudfront.net^
@@ -12502,8 +12634,8 @@ ws*:^^video.docfilms.info^
 ||youmi.net^
 ||n152adserv.com^
 ||weboohost.com^
-! Tracking service
 ||app-measurement.com^
+||t2.hulu.com^
 ||168logger.com^
 ||isterra.ru^
 ||user-clicks.com^
@@ -14601,6 +14733,7 @@ ws*:^^video.docfilms.info^
 ||publicidees.com^
 ||publishflow.com^
 ||pulleymarketing.com^
+||puls.lv^
 ||pulselog.com^
 ||pulsemaps.com^
 ||pureairhits.com^
@@ -14746,6 +14879,7 @@ ws*:^^video.docfilms.info^
 ||rtfn.net^
 ||rtrk.co.nz^
 ||rtrk.com^
+||ru4.com^
 ||rucounter.ru^
 ||rumanalytics.com^
 ||rva.outbrain.com^
@@ -15578,8 +15712,8 @@ ws*:^^video.docfilms.info^
 ||zowary.com^
 ||zqtk.net^
 ||zroitracker.com^
-! Admiral Domains
 ||functionalclam.com^
+! Admiral domains
 ||abashedangle.com^
 ||sixscissors.com^
 ||2znp09oa.com^
@@ -15963,7 +16097,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||s.frida.vse42.ru^
 ||saber.srvcs.tumblr.com^
 ||smetrics.uhc.com^
-||ssp.rambler.ru^
 ||startrekk.flaconi.de^
 ||stat.novostimira.com^
 ||statistics.mailerlite.com^
@@ -16203,7 +16336,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tools.runetki.co^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
-!-----Vietnamese-----
+! Vietnamese
 ||admicro.vn^
 ||admicro*.vcmedia.vn^
 ||adi.vcmedia.vn^
